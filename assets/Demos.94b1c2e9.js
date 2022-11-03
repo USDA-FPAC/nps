@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as o,d as e}from"./index.ccc4dacf.js";const l={},n=e("h1",null,"Demos",-1),c=e("ul",{class:"fds-list--unstyled"},[e("li",null,"List item one"),e("li",null,"List item two"),e("li",null,"List item three")],-1),i=[n,c];function _(a,r,d,u,m,p){return s(),o("div",null,i)}const h=t(l,[["render",_]]);export{h as default};

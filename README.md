@@ -1,2 +1,0 @@
-# nps
-NPS Program Demo
